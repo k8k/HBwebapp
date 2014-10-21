@@ -1,4 +1,6 @@
 
+
+
 div.melon-summary img {
     width: 200px;
 }
@@ -72,4 +74,6 @@ div.cart {
   border-top-right-radius: 0;
 }
 img.melon-cart {
+  height: 15px;
+  width: 15px;
 }
